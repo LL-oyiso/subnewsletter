@@ -9,7 +9,7 @@ const Hero = () => {
       {/* <img src ="" alt =" " className='w-full h-full object-cover'/> */}
       <div className='max-w-[1140px] m-auto  '>
         <div className='absolute top-[40%] w-full md:-[50%] max-w-[600px] h-full flex flex-col text-white p-4'>
-          <h1 className='font-bold text-4xl text-black'>Find your special trip</h1>
+          <h1 className='font-bold text-4xl text-black font-[Montserrat]'>Find your special trip</h1>
           <h2 className='text-4xl py-4 italic  text-black'>With weekaway</h2>
           <p className =" text-black">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. 
