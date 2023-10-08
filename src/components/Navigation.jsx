@@ -19,14 +19,14 @@ function Navigation()  {
          <h1 className='p-4 font-bold text-2xl'>Run Start</h1>
       <ul className='hidden sm:flex px-4 font-[Montserrat]  '>
        
-        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-400 duration-400 rounded-3xl '>
-          <a href ="/">Home</a>
+        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
+          <a href ="/">Creators</a>
         </li>
-        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-400 duration-400 rounded-3xl '>
-        <a href ="#about">About us</a>
+        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
+        <a href ="#about">Pricing</a>
         </li>
-        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-400 duration-400 rounded-3xl '>
-        <a href ="/">Updates</a>
+        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-200 duration-400 rounded-3xl '>
+        <a href ="/">Features</a>
         </li>
 
         <li className="">
