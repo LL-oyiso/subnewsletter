@@ -19,18 +19,18 @@ function Navigation()  {
          <h1 className='p-4 font-bold text-2xl'>Run Start</h1>
       <ul className='hidden sm:flex px-4 font-[Montserrat]  '>
        
-        <li className='text-xl '>
+        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-400 duration-400 rounded-3xl '>
           <a href ="/">Home</a>
         </li>
-        <li className='text-xl '>
+        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-400 duration-400 rounded-3xl '>
         <a href ="#about">About us</a>
         </li>
-        <li className='text-xl '>
+        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-400 duration-400 rounded-3xl '>
         <a href ="/">Updates</a>
         </li>
 
-        <li className=' '>
-        <button>LOGIN</button>
+        <li className="">
+        <button className='bg-black text-white'>LOGIN</button>
         </li>
         <li className=' '>
         <button>GET STARTED</button>
@@ -42,7 +42,7 @@ function Navigation()  {
       </div>
 
       {/* Mobile menu */}
-      <div onClick ={handleNav} className={nav ? 'overflow-y-hidden md:hidden ease-in duration-300 absolute text-gray-300 left-0 top-0 w-full h-screen bg-black/90 px-4 py-7 flex flex-col': 'absolute top-0 h-screen left-[-100%] ease-in duration-300'}>
+      <div onClick ={handleNav} className={nav ? 'overflow-y-hidden md:hidden ease-in duration-300 absolute text-black-300 left-0 top-0 w-full h-screen bg-gray-300 px-4 py-7 flex flex-col': 'absolute top-0 h-screen left-[-100%] ease-in duration-300'}>
         <ul className='h-full w-full text-center pt-12'>
         <li className='text-2xl py-8'>
           <a href ="/">Home</a>
@@ -52,6 +52,12 @@ function Navigation()  {
         </li>
         <li className='text-2xl py-8'>
         <a href ="#update">Updates</a>
+        </li>
+        <li className="">
+        <button className='bg-black text-white'>LOGIN</button>
+        </li>
+        <li className=' '>
+        <button>GET STARTED</button>
         </li>
         </ul>
       </div>
