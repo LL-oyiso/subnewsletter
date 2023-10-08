@@ -27,9 +27,9 @@ const Maincontent = () => {
     </div>
 
 
-    <div id ="prices" className =' w-full   h-[650px]    rounded-1xl  bg-gray-400' >
+    <div id ="prices" className =' w-full   h-[110vh]   rounded-1xl  bg-gray-400' >
         <div className='  w-full    m-auto max-w-[1140px] text-black '>
-         <h1 className=' p-6 text-6xl font-[KronaOne]'>Complete creative control</h1>
+         <h1 className=' p-14 text-6xl font-[KronaOne]'>Complete creative control</h1>
          <div className='flex-col justify-between' >
          <div className='card   mx-5 px-5 w-[330px] text-black rounded-2xl h-[350px]' >
           <h1 className='font-bold'>Our community cares</h1>
