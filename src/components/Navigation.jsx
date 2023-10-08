@@ -20,7 +20,7 @@ function Navigation()  {
       <ul className='hidden sm:flex px-4 font-[Montserrat]  '>
        
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
-          <a href ="/">Creators</a>
+          <a href ="#creators">Creators</a>
         </li>
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
         <a href ="#about">Pricing</a>
