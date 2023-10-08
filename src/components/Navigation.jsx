@@ -15,8 +15,8 @@ function Navigation()  {
         setNav(!nav)
     }
   return (
-    <div className='w-full flex   justify-between items-center absolute z-10 text-black space-x-4 '>
-         <h1 className='p-4 font-bold text-2xl'>Port</h1>
+    <div className=' sticky top-0 w-full flex   justify-between items-center z-10 text-black space-x-4 bg-white '>
+         <h1 className='p-4 font-bold text-2xl'>Run Start</h1>
       <ul className='hidden sm:flex px-4 font-[Montserrat]  '>
        
         <li className='text-xl '>
@@ -27,6 +27,13 @@ function Navigation()  {
         </li>
         <li className='text-xl '>
         <a href ="/">Updates</a>
+        </li>
+
+        <li className=' '>
+        <button>LOGIN</button>
+        </li>
+        <li className=' '>
+        <button>GET STARTED</button>
         </li>
       </ul>
       {/* Hamburger icon anything above small it will be hidden */}
