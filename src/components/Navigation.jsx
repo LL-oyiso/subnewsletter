@@ -15,15 +15,15 @@ function Navigation()  {
         setNav(!nav)
     }
   return (
-    <div className=' sticky top-0 w-full flex   justify-between items-center z-10 text-black space-x-4 bg-white '>
-         <h1 className='p-4 font-bold text-2xl'>Run Start</h1>
+    <div  className=' sticky top-0 w-full flex   justify-between items-center z-10 text-black  bg-white '>
+       <a href ="#hero"><h1 className='p-4 font-bold text-2xl '>Run Start</h1></a>
       <ul className='hidden sm:flex px-4 font-[Montserrat]  '>
        
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
           <a href ="#creators">Creators</a>
         </li>
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
-        <a href ="#about">Pricing</a>
+        <a href ="#prices">Pricing</a>
         </li>
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-200 duration-400 rounded-3xl '>
         <a href ="/">Features</a>
