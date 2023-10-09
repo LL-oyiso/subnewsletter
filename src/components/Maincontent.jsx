@@ -7,28 +7,28 @@ const Maincontent = () => {
   //
   return (
     <div id ="creators" className=' ' >
-         <div  className ='  w-full h-[110vh]  rounded-1xl  bg-black' >
+         <div  className ='  w-full h-[127vh]  rounded-1xl  bg-black' >
         <div className='  w-full    m-auto max-w-[1140px] text-white '>
          <h1 className=' p-14 text-6xl font-[KronaOne]'>We house the dopest creators on the contintent</h1>
-         <div className='flex mt-20 justify-around' >
-         <div className='card p-5 w-[350px] bg-white text-black rounded-2xl border-2 h-[460px] border-slate-700' >
+         <div className='flex mt-5 justify-around' >
+         <div className='card   w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-800' >
           <img src ="https://images.unsplash.com/photo-1630797160666-38e8c5ba44c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" className='rounded-2xl'/>
-          <p className='mt-5'>In the realm of digital connectivity, our community thrives on a newsletter subscription platform, forging connections that transcend geographical boundaries. 
+          <p className='mt-5 p-5'>In the realm of digital connectivity, our community thrives on a newsletter subscription platform, forging connections that transcend geographical boundaries. 
          . Subscribers to our platform are not merely passive consumers; they are active participants who contribute their unique insights and perspectives, 
       </p>
          </div>
-         <div className=' my-14 p-5 card w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-700'>
+         <div className=' mt-14  card w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-700'>
           <img src ="https://plus.unsplash.com/premium_photo-1684882665431-763315db45ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" className='rounded-2xl'/>
-          <p className='mt-5'>
+          <p className='mt-5 p-5'>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
             Vitae cumque, blanditiis maiores debitis facere illo distinctio sint ducimus esse expedita tempora, quibusdam voluptate, fugit sit sed iure 
             quaerat? Laborum, dignissimos.
           </p>
          </div>
 
-         <div className=' mt-28 p-5 card w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-700'>
-          <img src ="https://images.unsplash.com/photo-1632910138458-5bf601f3835e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80" className='rounded-2xl'/>
-          <p className='mt-5'>
+         <div className=' my-28  card w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-700'>
+          <img src ="https://images.unsplash.com/photo-1632910138458-5bf601f3835e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80" className='rounded-2xl' alt=" "/>
+          <p className='mt-5 p-5'>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
             Vitae cumque, blanditiis maiores debitis facere illo distinctio sint ducimus esse expedita tempora, quibusdam voluptate, fugit sit sed iure 
             quaerat? Laborum, dignissimos.
