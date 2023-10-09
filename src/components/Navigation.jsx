@@ -33,7 +33,7 @@ function Navigation()  {
         <button className='bg-black text-white'>LOGIN</button>
         </li>
         <li className=''>
-        <button>GET STARTED</button>
+        <button className='border-black'>GET STARTED</button>
         </li>
       </ul>
       {/* Hamburger icon anything above small it will be hidden */}

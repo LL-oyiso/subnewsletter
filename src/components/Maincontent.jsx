@@ -7,18 +7,18 @@ const Maincontent = () => {
   //
   return (
     <div id ="creators" className=' ' >
-         <div  className ='  w-full h-[127vh]  rounded-1xl  bg-black' >
+         <div  className ='  w-full h-[136vh]  rounded-1xl  bg-black' >
         <div className='  w-full    m-auto max-w-[1140px] text-white '>
          <h1 className=' p-14 text-6xl font-[KronaOne]'>We source the dopest creators on the contintent</h1>
          <div className='flex mt-5 justify-around' >
-         <div className='card   w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-700' >
-          <img src ="https://images.unsplash.com/photo-1630797160666-38e8c5ba44c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" className='rounded-2xl'/>
+         <div className='card   w-[250px] bg-white text-black rounded-2xl border-2 h-[270px] border-slate-700' >
+          <img src ="https://images.unsplash.com/photo-1630797160666-38e8c5ba44c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" className='rounded-2xl' alt =""/>
           <p className='mt-5 p-5'>In the realm of digital connectivity, our community thrives on a newsletter subscription platform, forging connections that transcend geographical boundaries. 
          . they are active participants who contribute their unique insights and perspectives, 
       </p>
          </div>
-         <div className=' mt-14  card w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-700'>
-          <img src ="https://plus.unsplash.com/premium_photo-1684882665431-763315db45ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" className='rounded-2xl'/>
+         <div className=' my-64  card w-[250px] bg-white text-black rounded-2xl border-2 h-[270px] border-slate-700'>
+          <img src ="https://plus.unsplash.com/premium_photo-1684882665431-763315db45ee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" className='rounded-2xl '  alt =""/>
           <p className='mt-5 p-5'>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
             Vitae cumque, blanditiis maiores debitis facere illo distinctio sint ducimus esse expedita tempora, quibusdam voluptate, fugit sit sed iure 
@@ -26,7 +26,17 @@ const Maincontent = () => {
           </p>
          </div>
 
-         <div className=' my-28  card w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-700'>
+         <div className='   card w-[250px] bg-white text-black rounded-2xl border-2 h-[270px] border-slate-700'>
+          <img src ="https://images.unsplash.com/photo-1632910138458-5bf601f3835e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80" className='rounded-2xl' alt=" "/>
+          <p className='mt-5 p-5'>
+            Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+            Vitae cumque, blanditiis maiores debitis facere illo distinctio sint ducimus esse expedita tempora, quibusdam voluptate, fugit sit sed iure 
+            quaerat? Laborum, dignissimos.
+          </p>
+          <button className='text-white   py-1 px-3'>GET STARTED</button>
+         </div>
+
+         <div className='   card w-[250px] bg-white text-black rounded-2xl border-2 h-[270px] border-slate-700'>
           <img src ="https://images.unsplash.com/photo-1632910138458-5bf601f3835e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80" className='rounded-2xl' alt=" "/>
           <p className='mt-5 p-5'>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
@@ -73,7 +83,7 @@ const Maincontent = () => {
           </p>
          </div>
          </div>
-         
+      
 
         </div>
     </div>
