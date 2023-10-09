@@ -20,10 +20,10 @@ function Navigation()  {
       <ul className='hidden sm:flex px-4 font-[Montserrat]  '>
        
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
-          <a href ="#creators">Creators</a>
+          <a href ="#creators">The Creators</a>
         </li>
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
-        <a href ="#prices">Pricing</a>
+        <a href ="#prices">Specs</a>
         </li>
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
         <a href ="/">Features</a>
