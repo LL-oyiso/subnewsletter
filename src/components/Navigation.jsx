@@ -23,10 +23,10 @@ function Navigation()  {
           <a href ="#creators">The Creators</a>
         </li>
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
-        <a href ="#prices">Specs</a>
+        <a href ="#specs">Specs</a>
         </li>
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
-        <a href ="/">Features</a>
+        <a href ="#subscribe">Subscribe</a>
         </li>
 
         <li className="">

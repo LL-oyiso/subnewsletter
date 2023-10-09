@@ -43,7 +43,7 @@ const Maincontent = () => {
   
 
 
-    <div id ="prices" className =' w-full   h-[145vh]   rounded-1xl  bg-gray-400' >
+    <div id ="specs" className =' w-full   h-[145vh]   rounded-1xl  bg-gray-400' >
         <div className='  w-full    m-auto max-w-[1140px] text-black'>
          <h1 className=' py-14 mx-12 text-6xl font-bold font-[KronaOne]'>Complete creative control</h1>
          <div className='flex'>
