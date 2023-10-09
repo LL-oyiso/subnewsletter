@@ -9,12 +9,12 @@ const Maincontent = () => {
     <div id ="creators" className=' ' >
          <div  className ='  w-full h-[127vh]  rounded-1xl  bg-black' >
         <div className='  w-full    m-auto max-w-[1140px] text-white '>
-         <h1 className=' p-14 text-6xl font-[KronaOne]'>We house the dopest creators on the contintent</h1>
+         <h1 className=' p-14 text-6xl font-[KronaOne]'>We source the dopest creators on the contintent</h1>
          <div className='flex mt-5 justify-around' >
-         <div className='card   w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-800' >
+         <div className='card   w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-700' >
           <img src ="https://images.unsplash.com/photo-1630797160666-38e8c5ba44c1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" className='rounded-2xl'/>
           <p className='mt-5 p-5'>In the realm of digital connectivity, our community thrives on a newsletter subscription platform, forging connections that transcend geographical boundaries. 
-         . Subscribers to our platform are not merely passive consumers; they are active participants who contribute their unique insights and perspectives, 
+         . they are active participants who contribute their unique insights and perspectives, 
       </p>
          </div>
          <div className=' mt-14  card w-[350px] bg-white text-black rounded-2xl border-2 h-[440px] border-slate-700'>
