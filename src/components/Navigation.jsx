@@ -25,14 +25,14 @@ function Navigation()  {
         <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
         <a href ="#prices">Pricing</a>
         </li>
-        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-200 duration-400 rounded-3xl '>
+        <li className='text-xl hover:-translate-y-0 hover:scale-90 hover:bg-gray-100 duration-400 rounded-3xl '>
         <a href ="/">Features</a>
         </li>
 
         <li className="">
         <button className='bg-black text-white'>LOGIN</button>
         </li>
-        <li className=' '>
+        <li className=''>
         <button>GET STARTED</button>
         </li>
       </ul>

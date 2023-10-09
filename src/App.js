@@ -5,7 +5,8 @@ import Navigation from './components/Navigation';
 import Maincontent from './components/Maincontent';
 // import Maincontent from './components/Maincontent';
 import Hero from './components/Hero'
-import Integration from './components/Integration';
+import { Booter } from './components/Booter';
+
 
 
 function App() {
@@ -15,7 +16,10 @@ function App() {
 <Navigation />
   <Hero />
  <Maincontent />
- <Integration />
+<Booter />
+ 
+
+ 
 
 
 
