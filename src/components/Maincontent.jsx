@@ -7,7 +7,7 @@ const Maincontent = () => {
   //
   return (
     <div id ="creators" className=' ' >
-         <div  className ='  w-full h-[152vh]  rounded-1xl  bg-black' >
+         <div  className ='  w-full h-[1120px]  rounded-1xl  bg-black' >
         <div className='  w-full    m-auto max-w-[1120px] text-white '>
          <h1 className=' px-14 py-14 font-bold text-6xl font-[KronaOne]'>We source the dopest creators on the contintent</h1>
          <p className='px-14 py-2 text-xl max-w-[800px] font-[Montserrat]'>Providing you with a comprehensive lists of tech creators to watch out for and best practices swarn by industry software devs</p>
@@ -43,7 +43,7 @@ const Maincontent = () => {
   
 
 
-    <div id ="specs" className =' w-full   h-[145vh]   rounded-1xl  bg-gray-400' >
+    <div id ="specs" className =' w-full   h-[1000px]   rounded-1xl  bg-gray-400' >
         <div className='  w-full    m-auto max-w-[1140px] text-black'>
          <h1 className=' py-14 mx-12 text-6xl font-bold font-[KronaOne]'>Complete creative control</h1>
          <div className='flex'>

@@ -7,7 +7,7 @@ export const Booter = () => {
      <div className='w-full h-[300px] text-center'>
       <h1 className="text-4xl font-[Montserrat]   text-center mt-10">SUBSCRIBE/SUBSCRIBE/SUBSCRIBE/SUBSCRIBE</h1>
       <h2 className='text-center mt-10'>Sign up for our newsletter</h2>
-      
+     <div><input className='border-2 border-slate-500 w-[100px]'></input>heloo</div> 
       <button className ="bg-black text-white px-6 mt-24"> SUBSCRIBE</button>
     </div>
 
