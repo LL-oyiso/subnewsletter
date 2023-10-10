@@ -5,12 +5,11 @@ const Hero = () => {
   return ( 
     
     <div id ="hero" className =' w-full  h-[110vh]  ' >
-      <div>
+      
       <img src={Bg} alt =" "/>
-      <div className='bg-black w-[300px] h-[200px]'>
-       
+      <div className='bg-black w-[50%] h-[800px]'>
       </div>
-      </div>
+      
     
       {/* <img src ="" alt =" " className='w-full h-full object-cover'/> */}
       <div className=' w-full max-w-[1140px] m-auto  '>
