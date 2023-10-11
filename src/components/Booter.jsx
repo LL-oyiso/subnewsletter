@@ -1,27 +1,35 @@
 import React from 'react'
-
+import threads from '../Threads.png'
 export const Booter = () => {
   return (
     <div id ="subscribe">
 
 
-    <div className='w-full bg-black h-[520px] text-white justify-between font-[Monterrat] '>
-      <div>
+    <div className='w-full bg-black h-[350px] text-white justify-around font-[Monterrat] flex '>
+      <div className='w-[580px] flex mt-20'>
      <a href ="#hero"> <h1 className='text-bold  font-[KronaOne] px-10 py-10 text-2xl'>RUN START </h1></a>
-     <ul className='ml-10'>
-     <a href ="#creators"><li>The Creators</li></a> 
-     <a href ="#specs"> <li>Specs</li></a>
-     <a href ="#subscribe"><li>Subscribe</li></a>
+     <ul className='ml-10 mt-5 text-3xl '>
+     <a href ="#creators"><li className ="text-xl" >The Creators</li></a> 
+     <a href ="#specs"> <li className ="text-xl">Specs</li></a>
+     <a href ="#subscribe" className ="text-xl"><li>Subscribe</li></a>
+     </ul>
+     <ul className='ml-10 mt-5 text-3xl '>
+     <a href ="#creators"><li className ="text-xl" >The Creators</li></a> 
+     <a href ="#specs"> <li className ="text-xl">Specs</li></a>
+     <a href ="#subscribe" className ="text-xl"><li>Subscribe</li></a>
      </ul>
       </div>
       
-      <div className='px-10 w-[700px] text-center m-auto  border-4 border-slate-300'>
-      <h1 className="text-2xl font-[Montserrat]   text-center mt-10">SUBSCRIBE/SUBSCRIBE/SUBSCRIBE/SUBSCRIBE</h1>
+      <div className='px-10 w-[600px] text-center     '>
+      <h1 className="text-1xl font-[Montserrat]   text-center mt-28">SUBSCRIBE/SUBSCRIBE/SUBSCRIBE/SUBSCRIBE</h1>
       <h2 className='text-center mt-10'>Sign up for our newsletter</h2>
       <div className=''>
-      <input className='mt-5 py-5 border-4 border-black text-center  w-[300px] h-[60px]'></input>
-      <button className ="bg-white text-black px-6  ml-10 mt-10 text-xl"> SUBSCRIBE</button>
+      <input className='mt-5 py-2 border-4 border-black text-center rounded-3xl w-[300px] h-[50px]'></input>
+      <button className ="bg-white text-black px-6 py-2 ml-10  rounded-3xl text-xl"> SUBSCRIBE</button>
+      
+
       </div>
+      <img src ={threads} alt ="" /> 
      
       </div> 
     

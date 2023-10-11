@@ -43,7 +43,7 @@ const Maincontent = () => {
   
 
 
-    <div id ="specs" className =' w-full   h-[1000px]   rounded-1xl  bg-gray-400' >
+    <div id ="specs" className =' w-full   h-[900px]   rounded-1xl  bg-gray-100' >
         <div className='  w-full    m-auto max-w-[1140px] text-black'>
          <h1 className=' py-14 mx-12 text-6xl font-bold font-[KronaOne]'>Complete creative control</h1>
          <div className='flex'>
@@ -56,7 +56,7 @@ const Maincontent = () => {
          </div>
 
 
-         <div className=' p-5  mt-10  mx-8 card w-[420px]  text-black rounded-2xl  h-[300px]'>
+         <div className=' p-5  mt-10  mx-8 card w-[420px]  text-black rounded-2xl  h-[260px]'>
          <h1 className='font-[Montserrat] font-bold text-2xl'>Weekly Roundup: Stay Informed Effortlessly</h1>
           <p className='font-[Montserrat] text-xl mt-5'>
            Enjoy the convenience of a weekly digest option that delivers handpicked highlights, summarizing the most compelling articles and newsletters directly to subscribers' inboxes.</p>
@@ -65,8 +65,8 @@ const Maincontent = () => {
           
          </div>
          </div>
-         <div className=' flex mt-28 w-[610px] h-[400px] border-4 rounded-2xl border-slate-200'>
-        
+         <div className=' flex ml-28 mt-24 w-[590px] h-[400px] border-4 border-yellow-500'>
+          <img src ="https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt ="" />
        
 
          </div>
