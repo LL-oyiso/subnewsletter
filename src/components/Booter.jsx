@@ -14,8 +14,8 @@ export const Booter = () => {
      <a href ="#subscribe" className ="text-xl"><li>Subscribe</li></a>
      </ul>
      <ul className='ml-10 mt-5 text-3xl '>
-     <a href ="#creators"><li className ="text-xl" >The Creators</li></a> 
-     <a href ="#specs"> <li className ="text-xl">Specs</li></a>
+     <a href ="#creators"><li className ="text-xl" >Future work</li></a> 
+     <a href ="#specs"> <li className ="text-xl">Work</li></a>
      <a href ="#subscribe" className ="text-xl"><li>Subscribe</li></a>
      </ul>
       </div>
