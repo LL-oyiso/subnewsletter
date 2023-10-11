@@ -1,6 +1,5 @@
 import React from 'react'
-import Bg from '../Bg.png'
-import land from '../CiTi.png'
+
 const Hero = () => {
   return ( 
     

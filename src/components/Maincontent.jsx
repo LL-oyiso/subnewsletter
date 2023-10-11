@@ -1,8 +1,5 @@
 import React from 'react'
-import X from '../X.png'
-import Threads from '../Threads.png'
-import Insta from '../insta.png'
-import Facebook from '../facebook.png'
+
 const Maincontent = () => {
   //
   return (
