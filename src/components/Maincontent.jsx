@@ -15,7 +15,7 @@ const Maincontent = () => {
          <div className='card mt-5  w-[300px] bg-white text-black rounded-2xl border-2 h-[460px] border-slate-700' >
           <img src ="https://images.unsplash.com/photo-1504890001746-a9a68eda46e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1387&q=80" className='rounded-2xl' alt=""/>
           <h2 className='  font-[Montserrat] px-4 py-2  text-left font-bold'>Run Start</h2>
-          <p className=' font-[Montserrat] p-5'>Welcome to Run Start, your passport to the coolest and most cutting-edge developments in the world of technology. We are your trusty guides on this thrilling journey through the digital universe
+          <p className=' font-[Montserrat] p-5'>Welcome to Run Start, your passport to the coolest and most cutting-edge developments in  technology. We are your guides on this journey
       </p>
          </div>
          <div className=' mt-14  card w-[300px] bg-white text-black rounded-2xl border-2 h-[460px] border-slate-700'>

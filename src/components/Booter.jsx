@@ -1,5 +1,5 @@
 import React from 'react'
-import threads from '../Threads.png'
+
 export const Booter = () => {
   return (
     <div id ="subscribe">
@@ -29,7 +29,7 @@ export const Booter = () => {
       
 
       </div>
-      <img src ={threads} alt ="" /> 
+    
      
       </div> 
     
