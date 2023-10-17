@@ -22,7 +22,7 @@ export const Booter = () => {
       
       <div className='px-10 w-[600px]    '>
       <h1 className="text-1xl font-[Montserrat] mt-28 ">SUBSCRIBE/SUBSCRIBE/SUBSCRIBE/SUBSCRIBE</h1>
-      
+      <h2 className=' mt-10  ml-3'>Sign up for our newsletter</h2>
       <div className=''>
       <input className='mt-5 py-2 border-4 border-black text-center rounded-3xl w-[300px] h-[50px]'></input>
       <button className ="bg-white text-black px-6 py-2 ml-10  rounded-3xl text-xl"> SUBSCRIBE</button>
