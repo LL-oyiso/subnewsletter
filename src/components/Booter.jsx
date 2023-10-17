@@ -9,9 +9,7 @@ export const Booter = () => {
       <div className='w-[580px] flex mt-20'>
      <a href ="#hero"> <h1 className='text-bold  font-[KronaOne] px-10 py-10 text-2xl'>RUN START </h1></a>
      <ul className='ml-10 mt-5 text-3xl '>
-     <a href ="#creators"><li className ="text-xl" >The Creators</li></a> 
-     <a href ="#specs"> <li className ="text-xl">Specs</li></a>
-     <a href ="#subscribe" className ="text-xl"><li>Subscribe</li></a>
+     
      </ul>
      <ul className='ml-10 mt-5 text-3xl '>
      <a href ="#creators"><li className ="text-xl" >Future work</li></a> 
